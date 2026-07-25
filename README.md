@@ -1,7 +1,7 @@
 
 # 📺 NTTV IPTV Playlist
 
-173 channels — M3U playlist for NTTV players.
+M3U playlist for NTC NTTV players.
 
 ---
 
